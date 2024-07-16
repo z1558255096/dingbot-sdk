@@ -1,0 +1,40 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+rebel.xml
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+.smartut/
+/org/apache/ibatis/plugin/InterceptorChain.class
+/qbiz-pay-openapi/org/apache/ibatis/plugin/InterceptorChain.class
+/jrebel-classpath-36488.jar
+/.fastRequest/collections/Root/Default Group/directory.json
+/.fastRequest/collections/Root/directory.json
+/.fastRequest/config/fastRequestCurrentProjectConfig.json
